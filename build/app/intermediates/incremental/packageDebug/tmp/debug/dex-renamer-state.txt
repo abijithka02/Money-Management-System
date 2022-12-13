@@ -1,0 +1,4 @@
+#Tue Dec 13 07:05:13 IST 2022
+base.0=/home/abijith/Desktop/Flutter_project/money_management/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
